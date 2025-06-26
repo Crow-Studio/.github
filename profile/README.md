@@ -55,27 +55,11 @@ Native and cross-platform mobile apps that deliver exceptional user experiences 
 
 ## 🛠️ Technologies We Use
 
-**Frontend:** React, Next.js, Vue.js, Angular, React Native, Flutter  
+**Frontend:** React, Next.js, Vue.js, Angular, React Native. 
 **Backend:** Go, TypeScript, Node.js  
 **Databases:** PostgreSQL, MongoDB, MySQL, Firebase  
 **Cloud:** AWS, Google Cloud, Vercel, Netlify  
 **Design:** Figma, Adobe Creative Suite, Sketch
-
-## 📁 Repository Structure
-
-Our repositories are organized by project type and client engagement:
-
-```
-crow-studio/
-├── landing-pages/          # High-converting landing page projects
-├── company-websites/       # Corporate website solutions
-├── business-websites/      # SMB-focused web solutions
-├── portfolio-sites/        # Creative portfolio projects
-├── web-applications/       # Complex web app projects
-├── mobile-apps/           # iOS and Android applications
-├── templates/             # Reusable templates and boilerplates
-└── tools/                 # Internal tools and utilities
-```
 
 ## 🤝 Working With Us
 
